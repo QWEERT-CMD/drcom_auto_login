@@ -51,7 +51,7 @@ pip install requests tkinter
 
 ## 如何适配自己的环境
 
-基于 [各大高校都适用的 全平台校园网自动登录实现方法](https://www.bilibili.com/read/cv16042718/?opus_fallback=1)，您可以按照以下步骤适配自己的校园网环境：
+ [各大高校都适用的 全平台校园网自动登录实现方法](https://www.bilibili.com/read/cv16042718/?opus_fallback=1)，您可以按照以下步骤适配自己的校园网环境：
 
 ### 第0步：检查适配性
 
